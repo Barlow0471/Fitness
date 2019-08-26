@@ -1,0 +1,9 @@
+body{
+    display: block;
+    background-color: orange;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: center;    
+}
